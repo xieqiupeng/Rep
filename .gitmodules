@@ -19,6 +19,3 @@
 [submodule "Out"]
 	path = Out
 	url = https://www.github.com/xieqiupeng/Out
-[submodule "Rep"]
-	path = Rep
-	url = https://www.github.com/xieqiupeng/Rep
