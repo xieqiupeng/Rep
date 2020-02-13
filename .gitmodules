@@ -1,0 +1,24 @@
+[submodule "Core"]
+	path = Core
+	url = https://www.github.com/xieqiupeng/Core
+[submodule "Enum"]
+	path = Enum
+	url = https://xieqiupeng@github.com/xieqiupeng/Enum
+[submodule "List"]
+	path = List
+	url = https://www.github.com/xieqiupeng/List
+[submodule "Project-Service"]
+	path = Project-Service
+  url = https://www.github.com/xieqiupeng/Project-Service
+[submodule "Instance"]
+	path = Instance
+	url = https://xieqiupeng@github.com/xieqiupeng/Instance
+[submodule "Bench"]
+	path = Bench
+	url = https://www.github.com/xieqiupeng/Bench
+[submodule "Out"]
+	path = Out
+	url = https://www.github.com/xieqiupeng/Out
+[submodule "Rep"]
+	path = Rep
+	url = https://www.github.com/xieqiupeng/Rep
