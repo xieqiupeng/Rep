@@ -79,9 +79,6 @@
 [submodule "Strategy"]
 	path = Strategy
 	url = https://xieqiupeng@github.com/xieqiupeng/Strategy
-[submodule "Spirit"]
-	path = Spirit
-	url = https://xieqiupeng@github.com/xieqiupeng/Spirit
 [submodule "Life"]
 	path = Life
 	url = https://xieqiupeng@github.com/xieqiupeng/Life
