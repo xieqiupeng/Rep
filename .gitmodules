@@ -250,3 +250,6 @@
 [submodule "Trust"]
 	path = Trust
 	url = https://www.github.com/xieqiupeng/Trust
+[submodule "Enum-Worth"]
+	path = Enum-Worth
+	url = https://www.github.com/xieqiupeng/Enum-Worth
