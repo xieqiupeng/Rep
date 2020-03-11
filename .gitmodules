@@ -253,3 +253,6 @@
 [submodule "Present-GreatThan-Future"]
 	path = Present-GreatThan-Future
 	url = https://www.github.com/xieqiupeng/Present-GreatThan-Future
+[submodule "Vocation"]
+	path = Vocation
+	url = https://www.github.com/xieqiupeng/Vocation
