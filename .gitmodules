@@ -262,3 +262,9 @@
 [submodule "ZiWoFZXLX"]
 	path = ZiWoFZXLX
 	url = https://www.github.com/xieqiupeng/ZiWoFZXLX
+[submodule "Enjoy"]
+	path = Enjoy
+	url = https://www.github.com/xieqiupeng/Enjoy
+[submodule "Rent"]
+	path = Rent
+	url = https://www.github.com/xieqiupeng/Rent
