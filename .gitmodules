@@ -256,3 +256,9 @@
 [submodule "Vocation"]
 	path = Vocation
 	url = https://www.github.com/xieqiupeng/Vocation
+[submodule "ZhiShiJSLL"]
+	path = ZhiShiJSLL
+	url = https://www.github.com/xieqiupeng/ZhiShiJSLL
+[submodule "ZiWoFZXLX"]
+	path = ZiWoFZXLX
+	url = https://www.github.com/xieqiupeng/ZiWoFZXLX
