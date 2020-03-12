@@ -268,3 +268,6 @@
 [submodule "Rent"]
 	path = Rent
 	url = https://www.github.com/xieqiupeng/Rent
+[submodule "Parlor"]
+	path = Parlor
+	url = https://www.github.com/xieqiupeng/Parlor
