@@ -271,3 +271,12 @@
 [submodule "Parlor"]
 	path = Parlor
 	url = https://www.github.com/xieqiupeng/Parlor
+[submodule "BingFa"]
+	path = BingFa
+	url = https://www.github.com/xieqiupeng/BingFa
+[submodule "Java"]
+	path = Java
+	url = https://www.github.com/xieqiupeng/Java
+[submodule "Technology"]
+	path = Technology
+	url = https://www.github.com/xieqiupeng/Technology
