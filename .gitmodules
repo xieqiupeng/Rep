@@ -280,3 +280,12 @@
 [submodule "Technology"]
 	path = Technology
 	url = https://www.github.com/xieqiupeng/Technology
+[submodule "Network"]
+	path = Network
+	url = https://www.github.com/xieqiupeng/Network
+[submodule "DataAlgorithm"]
+	path = DataAlgorithm
+	url = https://www.github.com/xieqiupeng/DataAlgorithm
+[submodule "DataBase"]
+	path = DataBase
+	url = https://www.github.com/xieqiupeng/DataBase
