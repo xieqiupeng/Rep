@@ -12,7 +12,7 @@
 	url = https://www.github.com/xieqiupeng/Flesh
 [submodule "Estate"]
 	path = Estate
-	url = https://www.github.com/xieqiupeng/Resource-Estate
+	url = https://www.github.com/xieqiupeng/Estate
 [submodule "Society"]
 	path = Society
 	url = https://www.github.com/xieqiupeng/Society
