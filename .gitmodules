@@ -301,3 +301,6 @@
 [submodule "Girl"]
 	path = Girl
 	url = https://www.github.com/xieqiupeng/Girl
+[submodule "JingYingRK"]
+	path = JingYingRK
+	url = https://www.github.com/xieqiupeng/JingYingRK
