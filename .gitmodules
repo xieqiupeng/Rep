@@ -295,3 +295,9 @@
 [submodule "Product"]
 	path = Product
 	url = https://www.github.com/xieqiupeng/Product
+[submodule "Change"]
+	path = Change
+	url = https://www.github.com/xieqiupeng/Change
+[submodule "Girl"]
+	path = Girl
+	url = https://www.github.com/xieqiupeng/Girl
