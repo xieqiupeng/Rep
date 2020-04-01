@@ -307,3 +307,6 @@
 [submodule "OKR"]
 	path = OKR
 	url = https://www.github.com/xieqiupeng/OKR
+[submodule "Enterprise"]
+	path = Enterprise
+	url = https://www.github.com/xieqiupeng/Enterprise
