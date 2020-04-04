@@ -310,3 +310,6 @@
 [submodule "Enterprise"]
 	path = Enterprise
 	url = https://www.github.com/xieqiupeng/Enterprise
+[submodule "Beijing"]
+	path = Beijing
+	url = https://www.github.com/xieqiupeng/Beijing
