@@ -313,3 +313,10 @@
 [submodule "Beijing"]
 	path = Beijing
 	url = https://www.github.com/xieqiupeng/Beijing
+[submodule "Humor"]
+	path = Humor
+	url = https://www.github.com/xieqiupeng/Humor
+[submodule "Face"]
+	path = Face
+	url = https://www.github.com/xieqiupeng/Face
+	
