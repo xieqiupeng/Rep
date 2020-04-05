@@ -319,4 +319,7 @@
 [submodule "Face"]
 	path = Face
 	url = https://www.github.com/xieqiupeng/Face
+[submodule "Fun"]
+	path = Fun
+	url = https://www.github.com/xieqiupeng/Fun
 	
