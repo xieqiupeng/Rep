@@ -325,3 +325,6 @@
 [submodule "Culture"]
 	path = Culture
 	url = https://www.github.com/xieqiupeng/Culture
+[submodule "Politics"]
+	path = Politics
+	url = https://www.github.com/xieqiupeng/Politics
