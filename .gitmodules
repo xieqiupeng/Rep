@@ -328,3 +328,6 @@
 [submodule "Politics"]
 	path = Politics
 	url = https://www.github.com/xieqiupeng/Politics
+[submodule "Instance-Exam"]
+	path = Instance-Exam
+	url = https://www.github.com/xieqiupeng/Instance-Exam
