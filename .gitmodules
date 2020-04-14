@@ -145,9 +145,9 @@
 [submodule "Fertile"]
 	path = Fertile
 	url = https://www.github.com/xieqiupeng/Fertile
-[submodule "Always"]
-	path = Always
-	url = https://www.github.com/xieqiupeng/Always
+[submodule "Eternal"]
+	path = Eternal
+	url = https://www.github.com/xieqiupeng/Eternal
 [submodule "Subway"]
 	path = Subway
 	url = https://www.github.com/xieqiupeng/Subway
