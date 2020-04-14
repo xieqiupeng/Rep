@@ -334,3 +334,6 @@
 [submodule "Accost"]
 	path = Accost
 	url = https://www.github.com/xieqiupeng/Accost
+[submodule "Fear"]
+	path = Fear
+	url = https://www.github.com/xieqiupeng/Fear
