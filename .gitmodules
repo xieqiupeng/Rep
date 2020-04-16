@@ -337,3 +337,6 @@
 [submodule "Fear"]
 	path = Fear
 	url = https://www.github.com/xieqiupeng/Fear
+[submodule "Photograph"]
+	path = Photograph
+	url = https://www.github.com/xieqiupeng/Photograph
