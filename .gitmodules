@@ -340,3 +340,6 @@
 [submodule "Photograph"]
 	path = Photograph
 	url = https://www.github.com/xieqiupeng/Photograph
+[submodule "Habit"]
+	path = Habit
+	url = https://www.github.com/xieqiupeng/Habit
