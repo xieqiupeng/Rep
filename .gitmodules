@@ -49,9 +49,9 @@
 [submodule "Effect"]
 	path = Effect
 	url = https://xieqiupeng@github.com/xieqiupeng/Effect
-[submodule "Expertise"]
-	path = Expertise
-	url = https://www.github.com/xieqiupeng/Expertise
+[submodule "Profession"]
+	path = Profession
+	url = https://www.github.com/xieqiupeng/Profession
 [submodule "Worth"]
 	path = Worth
 	url = http://www.github.com/xieqiupeng/Worth
