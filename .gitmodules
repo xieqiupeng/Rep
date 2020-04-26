@@ -64,9 +64,9 @@
 [submodule "Ego"]
 	path = Ego
 	url = https://xieqiupeng@github.com/xieqiupeng/Ego
-[submodule "Cognition"]
-	path = Cognition
-	url = https://xieqiupeng@github.com/xieqiupeng/Cognition
+[submodule "Consensus"]
+	path = Consensus
+	url = https://xieqiupeng@github.com/xieqiupeng/Consensus
 [submodule "Credential"]
 	path = Credential
 	url = https://xieqiupeng@github.com/xieqiupeng/Credential
