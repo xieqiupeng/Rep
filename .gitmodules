@@ -343,3 +343,6 @@
 [submodule "Habit"]
 	path = Habit
 	url = https://www.github.com/xieqiupeng/Habit
+[submodule "IGetGet"]
+	path = IGetGet
+	url = https://www.github.com/xieqiupeng/IGetGet
