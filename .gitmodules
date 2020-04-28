@@ -346,3 +346,6 @@
 [submodule "IGetGet"]
 	path = IGetGet
 	url = https://www.github.com/xieqiupeng/IGetGet
+[submodule "Economy"]
+	path = Economy
+	url = https://www.github.com/xieqiupeng/Economy
