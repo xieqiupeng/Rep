@@ -349,3 +349,6 @@
 [submodule "Economy"]
 	path = Economy
 	url = https://www.github.com/xieqiupeng/Economy
+[submodule "Tencent"]
+	path = Tencent
+	url = https://www.github.com/xieqiupeng/Tencent
