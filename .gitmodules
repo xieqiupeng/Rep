@@ -331,9 +331,6 @@
 [submodule "Accost"]
 	path = Accost
 	url = https://www.github.com/xieqiupeng/Accost
-[submodule "Fear"]
-	path = Fear
-	url = https://www.github.com/xieqiupeng/Fear
 [submodule "Photograph"]
 	path = Photograph
 	url = https://www.github.com/xieqiupeng/Photograph
@@ -364,3 +361,13 @@
 [submodule "Work"]
 	path = Work
 	url = https://www.github.com/xieqiupeng/Work
+[submodule "Afraid"]
+	path = Afraid
+	url = https://www.github.com/xieqiupeng/Afraid
+[submodule "Customer"]
+	path = Customer
+	url = https://www.github.com/xieqiupeng/Customer
+[submodule "Domain"]
+	path = Domain
+	url = https://www.github.com/xieqiupeng/Domain
+	
