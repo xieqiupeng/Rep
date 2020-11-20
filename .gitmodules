@@ -70,9 +70,6 @@
 [submodule "Credential"]
 	path = Credential
 	url = https://xieqiupeng@github.com/xieqiupeng/Credential
-[submodule "Investment"]
-	path = Investment
-	url = https://xieqiupeng@github.com/xieqiupeng/Investment
 [submodule "Story"]
 	path = Story
 	url = https://xieqiupeng@github.com/xieqiupeng/Story
@@ -352,3 +349,18 @@
 [submodule "Tencent"]
 	path = Tencent
 	url = https://www.github.com/xieqiupeng/Tencent
+[submodule "Authority"]
+	path = Authority
+	url = https://www.github.com/xieqiupeng/Authority
+[submodule "Invest"]
+	path = Invest
+	url = https://www.github.com/xieqiupeng/Invest
+[submodule "NLP"]
+	path = NLP
+	url = https://www.github.com/xieqiupeng/NLP
+[submodule "TOC"]
+	path = TOC
+	url = https://www.github.com/xieqiupeng/TOC
+[submodule "Work"]
+	path = Work
+	url = https://www.github.com/xieqiupeng/Work
